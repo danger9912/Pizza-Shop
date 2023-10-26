@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj": {}
+    "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj": {
+    "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
         "projectName": "OnlinePizzaWebApplication",
-        "projectPath": "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
+        "projectPath": "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
         "packagesPath": "C:\\Users\\Shubham\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Shubham\\AppData\\Roaming\\NuGet\\NuGet.Config",

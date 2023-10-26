@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "C4N+r96ZIija+49ARR1h+RK0htG7cgZnLLwtnYXvHc63mCSz1QCiKxDoRwzjAtnUuBB+LdWT66jjWpVrLpB0eg==",
+  "dgSpecHash": "aQmcmRwM7HNxxN4d0K1GUi42zk7BRVJLnR2od2xvqveA9yIosTFyiWfRoMxbtSGaiJEbF7qOslFjZcD4luJzXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shubham\\source\\OnlinePizzaWebShop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
+  "projectFilePath": "C:\\Users\\Shubham\\Desktop\\project\\ReactProject\\reactjs\\Pizza-Shop\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication\\OnlinePizzaWebApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shubham\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Shubham\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
